@@ -1,0 +1,2 @@
+# No Python packages needed -- only the standard library.
+# Requires ffmpeg + ffprobe on PATH: https://ffmpeg.org/download.html
